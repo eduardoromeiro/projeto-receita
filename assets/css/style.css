@@ -58,3 +58,12 @@ ul {
 img {
   border-radius: 16px;
 }
+footer {
+  color: #f0e8c2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+}
